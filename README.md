@@ -8,6 +8,11 @@ This project generates QR code labels for products, simulates sensor data, decod
 - Label validation
 - Inspection logging
 - (Optional) GUI support
+ ##file already created logger.csv
+  In future we also add
+  - Temperature
+  - Humidity
+  - and other information 
 
 # How to Run
 
